@@ -2,21 +2,30 @@
 
 ## 📌 Project Overview
 
-This project is an interactive **Weather Analytics Dashboard** built in **Power BI** using live weather data extracted from a Weather API. The dashboard provides real-time weather insights, 7-day forecasts, air quality monitoring, rainfall probability, and other key weather metrics through an intuitive and modern user interface.
+The Weather Analytics Dashboard is an interactive Power BI project built using live weather data extracted through a Weather API. The dashboard provides real-time weather insights, air quality monitoring, rainfall probability analysis, temperature forecasting, and key atmospheric indicators through a modern and user-friendly interface.
+
+This project demonstrates API integration, data transformation, DAX calculations, and dashboard design skills used in real-world Business Intelligence and Data Analytics projects.
+
+---
 
 ## 🚀 Live Dashboard
 
-**Power BI Report:**
+🔗 Power BI Report
+
 https://app.powerbi.com/view?r=eyJrIjoiZjg5YjhiYmItZDM0OS00MWI1LWI1OTMtNWQzZDhmMzQwYTJkIiwidCI6ImY4NTc3MjA3LWIwNWQtNDA0ZS04MmIzLTczMzcwMGNkYzE2ZCJ9
 
-## 🎯 Objectives
+---
+
+## 🎯 Business Objectives
 
 * Monitor current weather conditions.
-* Analyze 7-day weather forecasts.
+* Analyze upcoming weather forecasts.
 * Track air quality indicators.
-* Visualize rainfall probability trends.
-* Display sunrise and sunset timings.
-* Build a visually appealing and user-friendly dashboard.
+* Measure rainfall probability.
+* Monitor UV index and atmospheric conditions.
+* Provide weather insights through interactive visualizations.
+
+---
 
 ## 🛠 Tools & Technologies
 
@@ -26,10 +35,13 @@ https://app.powerbi.com/view?r=eyJrIjoiZjg5YjhiYmItZDM0OS00MWI1LWI1OTMtNWQzZDhmM
 * Weather API
 * Data Modeling
 * Data Visualization
+* Power BI Service
+
+---
 
 ## 📊 Dashboard Features
 
-### Current Weather
+### Current Weather Monitoring
 
 * Temperature
 * Weather Condition
@@ -43,53 +55,77 @@ https://app.powerbi.com/view?r=eyJrIjoiZjg5YjhiYmItZDM0OS00MWI1LWI1OTMtNWQzZDhmM
 ### Forecast Analysis
 
 * 7-Day Temperature Forecast
-* Daily Weather Summary
+* Daily Weather Overview
 * Rain Probability Analysis
 
 ### Air Quality Monitoring
 
 * PM10
 * PM2.5
-* CO
-* NO₂
-* SO₂
-* O₃
+* Carbon Monoxide (CO)
+* Nitrogen Dioxide (NO₂)
+* Sulfur Dioxide (SO₂)
+* Ozone (O₃)
 
 ### Additional Insights
 
 * Sunrise Time
 * Sunset Time
 * Multi-City Weather Comparison
-
-## 📈 Key Learnings
-
-* API Data Integration in Power BI
-* Power Query Data Transformation
-* DAX Measure Creation
-* Interactive Dashboard Design
-* KPI Development
-* Data Storytelling & Visualization Best Practices
-
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
-## 💡 Future Enhancements
-
-* Historical Weather Analysis
-* AQI Status Classification
-* Temperature Trend Comparison
-* Automated Data Refresh
-* Weather Alerts & Notifications
-
-## 👨‍💻 Author
-
-**Shashi Kumar Singh**
-
-### Skills Demonstrated
-
-Power BI | DAX | Power Query | API Integration | Data Visualization | Dashboard Design | Data Analytics
+* Interactive City Selection
 
 ---
 
-If you found this project useful, feel free to star ⭐ the repository.
+## 📈 Skills Demonstrated
+
+* API Data Extraction
+* Data Cleaning & Transformation
+* Power Query Development
+* DAX Measure Creation
+* Data Modeling
+* Dashboard Design
+* KPI Development
+* Data Visualization
+* Business Intelligence Reporting
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="100%" alt="Weather Dashboard" src="dashboard.png">
+
+---
+
+## 💡 Future Enhancements
+
+* Historical Weather Trend Analysis
+* AQI Status Classification
+* Temperature Variance Analysis
+* Automated Refresh Scheduling
+* Weather Alert Notifications
+
+---
+
+## 👨‍💻 Author
+
+### Shashi Kumar Singh
+
+📧 Email: [Shashikumarsingh605@gmail.com](mailto:Shashikumarsingh605@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/shashi-kumar-singh-a3ba0a231
+
+🐙 GitHub: https://github.com/shashi605-max
+
+---
+
+## 🎯 Open to Opportunities
+
+I am actively seeking opportunities in:
+
+* Data Analytics
+* Power BI Development
+* Business Intelligence
+* MIS Analytics
+* Reporting & Dashboard Development
+
+If you find this project helpful, please consider giving it a ⭐ on GitHub.
